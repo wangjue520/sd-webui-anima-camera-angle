@@ -6,6 +6,12 @@
 
 ![主界面](docs/screenshot_main.png)
 
+## 效果演示
+
+左侧拖拽 3D 控件调整相机（图示：背面 + 俯视 + 近景），右侧直接生成对应视角的图像，生成信息中可见附加的相机提示词：
+
+![效果演示](docs/screenshot_demo.png)
+
 ## 安装
 
 1. 进入 WebUI 的 `extensions` 目录：
